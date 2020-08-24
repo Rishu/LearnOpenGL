@@ -1,0 +1,12 @@
+**/build
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore all object files
+*.o
+
+# cleanup the vscode
+.vscode/
+
+**/bin
